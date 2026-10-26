@@ -1,0 +1,9 @@
+Condition,Filter,Lag_samples,Lag_ms
+Rest,FIR_causal,165,322.265625
+Rest,IIR_causal,4,7.8125
+Low,FIR_causal,165,322.265625
+Low,IIR_causal,4,7.8125
+Medium,FIR_causal,165,322.265625
+Medium,IIR_causal,4,7.8125
+High,FIR_causal,165,322.265625
+High,IIR_causal,4,7.8125
