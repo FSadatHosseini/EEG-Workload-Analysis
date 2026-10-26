@@ -1,4 +1,4 @@
-# EEG Assignment 02 — Signal Cleaning and Filtering
+# Signal Cleaning and Filtering
 
 ## 1. Project Overview
 
